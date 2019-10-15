@@ -17,6 +17,12 @@
   color: white;
 }
 
+.Chart-style {
+  margin: 0 auto;
+  width: 50%;
+  margin-top: 150px;
+}
+
 .App-link {
   color: #09d3ac;
 }
